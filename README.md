@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Namaste 🙏, I'm Pavan</h1>
+<h3 align="center">Being weak is not to be ashamed of but staying weak is!. Keep Learing Keep Growing.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavankulal9" alt="pavankulal9" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Nodejs**
+- 🤝 I’m looking for help with **React**
 
-- 📫 How to reach me **pawankulal92gmail.com**
+- 📫 How to reach me **pawankulal9gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
