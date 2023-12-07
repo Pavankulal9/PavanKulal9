@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/p_a_v_a_n_k_l" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe7%2FInstagram_logo_2016.svg%2F2048px-Instagram_logo_2016.svg.png&tbnid=YRBTEJWs58dBaM&vet=12ahUKEwi2l9DuyvyCAxUmSWwGHdYtDDAQMygAegQIARBj..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&docid=9bnaJkFlR-koEM&w=2048&h=2048&q=instagram%20svg&client=safari&ved=2ahUKEwi2l9DuyvyCAxUmSWwGHdYtDDAQMygAegQIARBj" alt="p_a_v_a_n_k_l" height="30" width="40" />
+<a href="https://instagram.com/p_a_v_a_n_k_l" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1701957619~exp=1701958219~hmac=b858cf84dbdeb8334e31c26426cd6ea6170a136ef905f57616a14ab5d386fd96" alt="p_a_v_a_n_k_l" height="30" width="40" />
 </a>
 </p>
 
