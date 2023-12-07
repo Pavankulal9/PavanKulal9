@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/p_a_v_a_n_k_l" target="blank"><img align="center" src="![Pasted Graphic](https://github.com/Pavankulal9/PavanKulal9/assets/114279960/aed49984-1f0c-4505-8701-777b4f5ba2bb)
-" alt="p_a_v_a_n_k_l" height="30" width="40" />
+<a href="https://instagram.com/p_a_v_a_n_k_l" target="blank"><img align="center" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="p_a_v_a_n_k_l" height="30" width="40" />
 </a>
 </p>
 
