@@ -1,27 +1,31 @@
 <h1 align="center">Namaste 🙏, I'm Pavan</h1>
 <h3 align="center">Being weak is not to be ashamed of but staying weak is!. Keep Learing Keep Growing.</h3>
 
+<div align="center">
+😄 I’m self Learned web developer!
+      
+👨‍💻 Want to work as a Front-end-developer in future.
+      
+❤️ Facinated in React.
+      
+ 🤝 I’m looking for help in React
+    
+📫 How to reach me **pawankulal9gmail.com**
+</div>
 
-- 😄 I’m self Learned web developer!
-  
-- 👨‍💻 Want to work as a Front-end-developer in future.
-  
-- ❤️ Facinated in React.
-  
-- 🤝 I’m looking for help in React
 
-- 📫 How to reach me **pawankulal9gmail.com**
 
 <div align="center">
 <h2>🌐 Socials</h2>
   <a href="https://linkedin.com/in/pavan-kulal"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&emsp;
 <!--   <a href="https://discord.gg/https://discord.gg/hRJFFTQ4"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>&emsp; -->
-  <a href="https://instagram.com/p_a_v_a_n_k_l><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>&emsp;
+  <a href="https://instagram.com/p_a_v_a_n_k_l"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>&emsp;
 <!--   <a href="https://twitter.com/RahulJSaliaan"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>&emsp; -->
 <!--   <a href="https://stackoverflow.com/users/22302321"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"></a>&emsp; -->
 <!--   <a href="https://codepen.io/Rahul-J-the-encoder"><img src="https://skillicons.dev/icons?i=gmail" alt="Codepen"></a> -->
 </div><br>
 
+<div align="center">
 <h2>💻 Tech Stack</h2>
   <h3>Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&emsp;
@@ -37,6 +41,7 @@
   <h3>Frameworks, Platforms & Libraries</h3>
   <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&emsp;
   <a href="https://redux.js.org/introduction/getting-started"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>&emsp;
+<!--   <a href="https://redux.js.org/introduction/getting-started"><img src="https://skillicons.dev/icons?i=react_Query" alt="react_query" /></a>&emsp; -->
   <!-- <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=next" alt="NextJS" /></a>&emsp; -->
   <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></a>&emsp;
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>&emsp;
@@ -62,8 +67,8 @@
 </div><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankulal9&show_icons=true&locale=en&layout=compact" alt="pavankulal9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavankulal9&theme=react&show_icons=true&locale=en&layout=compact" alt="pavankulal9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankulal9&show_icons=true&locale=en" alt="pavankulal9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankulal9&theme=react&show_icons=true&locale=en" alt="pavankulal9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankulal9&" alt="pavankulal9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankulal9&theme=react&" alt="pavankulal9" /></p>
