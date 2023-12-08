@@ -1,11 +1,10 @@
 <h1 align="center">Namaste 🙏, I'm Pavan</h1>
 <h3 align="center">Being weak is not to be ashamed of but staying weak is!. Keep Learing Keep Growing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavankulal9" alt="pavankulal9" /></a> </p>
 
 - 😄 I’m self Learned web developer!
   
-- 👨‍💻 Want to become a Front-end-developer in future.
+- 👨‍💻 Want to work as a Front-end-developer in future.
   
 - ❤️ Facinated in React.
   
@@ -17,7 +16,7 @@
 <h2>🌐 Socials</h2>
   <a href="https://linkedin.com/in/pavan-kulal"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&emsp;
 <!--   <a href="https://discord.gg/https://discord.gg/hRJFFTQ4"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>&emsp; -->
-  <a href="https://instagram.com/p_a_v_a_n_k_u_l_aL><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>&emsp;
+  <a href="https://instagram.com/p_a_v_a_n_k_l><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>&emsp;
 <!--   <a href="https://twitter.com/RahulJSaliaan"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>&emsp; -->
 <!--   <a href="https://stackoverflow.com/users/22302321"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"></a>&emsp; -->
 <!--   <a href="https://codepen.io/Rahul-J-the-encoder"><img src="https://skillicons.dev/icons?i=gmail" alt="Codepen"></a> -->
