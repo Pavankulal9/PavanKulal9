@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pawankulal9gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" fomt-weight="bold"> Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/p_a_v_a_n_k_l" target="blank"><img align="center" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="p_a_v_a_n_k_l" height="30" width="40" />
 </a>
