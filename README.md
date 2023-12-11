@@ -1,16 +1,16 @@
 <h1 align="center">Namaste 🙏, I'm Pavan</h1>
-<h3 align="center">Being weak is not to be ashamed of but staying weak is!. Keep Learing Keep Growing.</h3>
+<h3 align="center">Being weak is not to be ashamed of, but staying weak is! Keep Learning, Keep Growing.</h3>
 
 <div align="center">
-😄 I’m self Learned web developer!
+  😄 I’m a self-taught web developer!
       
-👨‍💻 Want to work as a Front-end-developer in future.
+  👨‍💻 aspiring to work as a Front-end developer in the future.
       
-❤️ Facinated in React.
+  ❤️ Fascinated by React.
       
- 🤝 I’m looking for help in React
+  🤝 I’m looking for help with React.
     
-📫 How to reach me **pawankulal9gmail.com**
+  📫 How to reach me: **pawankulal9@gmail.com**
 </div>
 
 
