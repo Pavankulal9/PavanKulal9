@@ -11,6 +11,8 @@
   🤝 I’m looking for help with React.
     
   📫 How to reach me: **pawankulal9@gmail.com**
+
+  🗺 <a href="https://drive.google.com/file/d/1l8mq9Wi-DS92kP_v1pZpgSDcXDUbz9Nf/view?usp=drivesdk">Explore More</a>&emsp;
 </div>
 
 
