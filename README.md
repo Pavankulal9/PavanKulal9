@@ -12,7 +12,7 @@
     
   📫 How to reach me: **pawankulal9@gmail.com**
 
-  🗺 <a href="https://drive.google.com/file/d/1l8mq9Wi-DS92kP_v1pZpgSDcXDUbz9Nf/view?usp=share_link">Explore More</a>&emsp;
+  🗺 <a href="https://drive.google.com/file/d/1lYx1bRxRe6D3OaR9ufoWDwtVWvespwXh/view?usp=share_link">My Resume</a>&emsp;
 </div>
 
 
