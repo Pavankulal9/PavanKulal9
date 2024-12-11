@@ -31,7 +31,7 @@
 <h2>💻 Tech Stack</h2>
   <h3>Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&emsp;
-<!--   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&emsp; -->
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&emsp;
 <!--   <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> -->
@@ -57,10 +57,14 @@
   <a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" /></a>&emsp;
 <!--   <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> -->
 
+ <h3>Containerization and Microservice</h3>
+  <a href="https://www.docker.com/docs/"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>&emsp;
+  <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" /></a>&emsp;
+
   <h3>Software & Tools</h3>
   <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code" /></a>&emsp;
-<!--   <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>&emsp; -->
-<!--   <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&emsp; -->
+  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>&emsp;
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&emsp;
   <a href="https://github.com/rahuljsaliaan"><img src="https://skillicons.dev/icons?i=github" alt="Git Hub" /></a>&emsp;
 <!--   <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>&emsp; -->
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="LINUX" /></a> 
